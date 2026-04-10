@@ -1,7 +1,7 @@
 
 
 
-# ⚔️ Crimson Desert Performance Mod 2026 — FPS Boost & Optimization Toolkit ⚔️
+# ⚔️⚔️ Crimson Desert Performance Mod 2026 — FPS Boost & Optimization Toolkit ⚔️⚔️
 
 [![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/CrimsonDesert-Performance-Mod)](https://github.com/Alexantros341/CrimsonDesert-Performance-Mod)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
